@@ -1,0 +1,193 @@
+{
+    "common": {
+        "loading": "Loading...",
+        "contact_us": "Contact Us",
+        "read_more": "Read More",
+        "learn_more": "Learn More",
+        "view_products": "View Products",
+        "copyright": "All Rights Reserved © 2024 Arzaq Alkhair Food Industries"
+    },
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Products",
+        "factory": "Factory",
+        "careers": "Careers",
+        "contact": "Contact",
+        "language": "العربية"
+    },
+    "contact": {
+        "name": "Full Name",
+        "email": "Email Address",
+        "subject": "Subject",
+        "message": "Message",
+        "send": "Send Message",
+        "get_in_touch": "Get in Touch",
+        "hq_label": "Company HQ",
+        "hq_address": "Al-Bourj Str. Hai Alandalus-GARGARISH STR.NO 6 Tripoli-Libya",
+        "factory_label": "Industrial Area",
+        "factory_city": "Zliten Libya",
+        "factory_address": "Industrial Area - South Zliten - Zliten Libya",
+        "address": "Industrial Area - South Zliten - Zliten Libya",
+        "phone": "Phone",
+        "email_label": "Email",
+        "hq_map_link": "https://maps.app.goo.gl/5WfKfbEQHCm1bWKd9",
+        "factory_map_link": "https://maps.app.goo.gl/K2M7SGcFDexN5CXa9",
+        "view_on_map": "View on Google Maps"
+    },
+    "hero": {
+        "title": "Arzaq Alkhair for Food Industries",
+        "title2": "Arzaq Alkhair ",
+        "subtitle": "Délice - Quality, Purity, and Unforgettable Taste",
+        "description": "Established in late 2017, we provide the finest dairy products using the most advanced production lines in North Africa.",
+        "cta": "Discover Our Products"
+    },
+    "home": {
+        "products_title": "Délice Product Range",
+        "products_desc": "Natural, Strained, and Fruit-flavored yogurt drinks and cups.",
+        "factory_title": "Advanced Manufacturing",
+        "factory_desc": "One of the largest production lines in North Africa, ensuring the highest standards of food safety.",
+        "cta_title": "Have a Question?",
+        "cta_desc": "We are here to answer all your inquiries. Contact us now.",
+        "products_zabadiVanillia": "Cup Vanilla Yogurt",
+        "products_zabadiCooki": "Cup Cookie + Strwberry Yogurt",
+        "products_zabadiStrw": "Cup  Strwberry Yogurt"
+    },
+    "highlights": {
+        "quality": "High Quality",
+        "safety": "Food Safety",
+        "taste": "Great Taste",
+        "technology": "Latest Technology"
+    },
+    "about": {
+        "title": "About Us",
+        "mission": "Our Mission",
+        "vision": "Our Vision",
+        "intro_title": "Who We Are",
+        "intro_desc": "Arzaq Alkhair for Food Industries (Brand: Délice) is a leading Libyan company established in late 2017 in the Industrial Zone, Zliten. Spanning 14 hectares with 7 hectares of covered production space, we are committed to excellence in food safety and quality.",
+        "mission_desc": "To deliver fresh, healthy, and high-quality dairy products developed through R&D to meet consumer needs, ensuring a sustainable future in the Libyan market.",
+        "vision_desc": "To maintain a competitive advantage through quality control and modern technology, complying with Libyan and international food safety standards.",
+        "partners_title": "Distribution Network",
+        "partners_desc": "Marketing is conducted through 'Nabd Al-Souq' for Marketing and Distribution, utilizing direct sales and a network of authorized agents across all Libya.",
+        "achievements_title": "Key Statistics",
+        "years": "Since 2017",
+        "products_count": "Modern Lines",
+        "employees": "130+ Employees",
+        "branches": "All Libyan Regions"
+    },
+    "products_page": {
+        "title": "Our Products",
+        "subtitle": "High-quality dairy products under the Délice brand",
+        "categories": {
+            "all": "All",
+            "drink": "Yogurt Drink",
+            "cup": "Cup Yogurt",
+            "strained": "Strained Yogurt"
+        },
+        "items": {
+            "p1": {
+                "name": "Yogurt Drink – Strawberry & Cranberry",
+                "description": "A pure and refreshing yogurt drink made with the latest technology, flavored with delicious strawberry and cranberry."
+            },
+            "p2": {
+                "name": "Yogurt Cup – Forest Fruits",
+                "description": "Creamy natural yogurt produced on our advanced production line with a forest fruits flavor."
+            },
+            "p3": {
+                "name": "Yogurt Cup – Plain",
+                "description": "A delicious plain yogurt cup, developed by our research and development team."
+            },
+            "p4": {
+                "name": "Yogurt Drink – Strawberry & Banana",
+                "description": "A delicious and healthy yogurt drink with strawberry and banana flavor."
+            },
+            "p5": {
+                "name": "Yogurt Cup – Biscuit & Strawberry",
+                "description": "A fresh yogurt cup with biscuit and strawberry flavor, a consumer favorite."
+            },
+            "p6": {
+                "name": "Yogurt Cup – Vanilla",
+                "description": "Delicious yogurt with a smooth vanilla flavor."
+            },
+            "p7": {
+                "name": "Yogurt Drink – Sour Milk",
+                "description": "A smooth, mildly sweet yogurt drink that is healthy and delicious."
+            },
+            "p8": {
+                "name": "Yogurt Drink – Vanilla",
+                "description": "A rich vanilla-flavored yogurt drink for a unique taste."
+            },
+            "p9": {
+                "name": "Yogurt Drink – Almond",
+                "description": "A delicious yogurt drink with almond flavor."
+            },
+            "p10": {
+                "name": "Yogurt Drink – Kiwi & Chia",
+                "description": "A refreshing blend of kiwi and chia seeds in a creamy drink."
+            },
+            "p11": {
+                "name": "Yogurt Drink – Pistachio",
+                "description": "A rich pistachio-flavored yogurt drink for a distinctive taste."
+            },
+            "p12": {
+                "name": "Yogurt Drink – Strawberry",
+                "description": "An explosion of strawberry flavor in every sip."
+            },
+            "p13": {
+                "name": "Yogurt Drink – Kiwi & Banana",
+                "description": "Kiwi blended with tropical banana for a refreshing experience."
+            }
+        },
+        "card": {
+            "sizes": "Sizes",
+            "storage": "Refrigerated",
+            "nutrition": "Nutrition Information",
+            "calories": "Calories",
+            "protein": "Protein",
+            "fat": "Fat",
+            "carbs": "Carbs"
+        }
+    },
+    "factory_page": {
+        "title": "Our Factory",
+        "subtitle": "Industrial Zone, Zliten - One of the largest facilities in North Africa",
+        "overview": {
+            "title": "Modern Production Unit",
+            "desc": "Spanning 14 hectares, our facility includes a dedicated production unit and fully equipped residential staff units. We use the latest specialized machinery for yogurt production."
+        },
+        "standards": {
+            "title": "Advanced Technology",
+            "hygiene": "Yogurt Drink Line",
+            "hygiene_desc": "Capacity: 24,000 bottles/hr (180ml) and 15,000 bottles/hr (900ml).",
+            "tech": "Cup Yogurt Line",
+            "tech_desc": "Operations starting Dec 2025 with capacity up to 42,000 cups/hr.",
+            "lab": "Quality Control",
+            "lab_desc": "Managed by Tunisian and Libyan experts following international specs."
+        },
+        "distribution": {
+            "title": "Nabd Al-Souq Distribution",
+            "desc": "A dedicated distribution arm ensuring our products reach all regions across Libya through authorized agents."
+        },
+        "certifications": "Quality & Compliance"
+    },
+    "careers_page": {
+        "title": "Join Our Team",
+        "subtitle": "Building careers with Libyan and Tunisian expertise",
+        "intro": {
+            "title": "Why Work With Us?",
+            "desc": "Our workforce of over 130 employees thrives in a dynamic environment managed by top industry experts."
+        },
+        "benefits": {
+            "growth": "New Graduate Training",
+            "environment": "Staff Residential Units",
+            "rewards": "Expert Mentorship"
+        },
+        "openings_title": "Current Openings",
+        "job_card": {
+            "apply": "Apply Now",
+            "location": "Location",
+            "type": "Type"
+        },
+        "no_jobs": "No current openings. Please check back later."
+    }
+}
